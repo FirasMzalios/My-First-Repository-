@@ -8,5 +8,21 @@ A=X/98
 
 print(A)
 
-#i'm gonna sleep Zzz
+name="james"
+
+print(name)
+print("\n")
+#the input function is when you want to ask someone to write something in the terminal
+name=input("what is your name ?")
+print("\n")
+age=input("and how old are you ?")
+print("\n")
+#what if we want to concatenate your wage with an phrase
+
+print("it's nice to meet you " + name + ", you look so much younger for " + age + " year old! ")
+
+#okay now we all know about input function and how to use variables :)
+
+
+
 
