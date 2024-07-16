@@ -19,6 +19,6 @@ total=price*int(quantity)
 print("\n")
 
 #another thing when using print function that contain a string we can't add an integer it's like doing a mathematic equation (str+int)=ERROR! 
-#so we have to convert the total into a string you can try without converting and it will show you an error 
+#so we have to convert the total into a string you can try without converting and an error will appear 
 print("okay " + name + ", your total order will be " + str(total) + "$ and will be ready in few moments please take a seat! ")
 
