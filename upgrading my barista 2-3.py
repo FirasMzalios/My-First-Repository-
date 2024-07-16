@@ -13,7 +13,7 @@ order=input("do you need anything from our menu ? we have: " + menu +"\n")
 
 quantity=input("sounds good and how many " + order + " would you like to order ? \n")
 
-#now we have to calculate the total price of the order and tyo do so we have to convert the QT into integer
+#now we have to calculate the total price of the order and to do so we have to convert the Quantity into integer
 total=price*int(quantity)
 
 print("\n")
